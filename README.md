@@ -4,7 +4,16 @@
 
 A machine learning project that predicts whether a customer of a subscription-based digital service is likely to churn. Businesses can use the model to find high-risk customers early and target them with personalized offers, proactive support and engagement campaigns.
 
-**Live demo:** https://kanan010506.github.io/Churn-Prediction/
+## Team
+
+Thapar Institute of Engineering and Technology, Patiala. Submitted to Dr. Ritesh Sharma.
+
+- Waris (1024170155)
+- Tanishq (1024170156)
+- Kanan (1024170164)
+- Samriddhi Gupta (102417065)
+- Ananya Dayal (1024170205)
+
 
 ---
 
@@ -66,12 +75,4 @@ All models fall within a 0.73–0.76 accuracy range and share ROC-AUC near 0.84,
 
 Python · Pandas · NumPy · Scikit-learn · XGBoost · Seaborn · Matplotlib
 
-## Team
 
-Thapar Institute of Engineering and Technology, Patiala. Submitted to Dr. Ritesh Sharma.
-
-- Waris (1024170155)
-- Tanishq (1024170156)
-- Kanan (1024170164)
-- Samriddhi Gupta (102417065)
-- Ananya Dayal (1024170205)
